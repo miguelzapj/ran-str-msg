@@ -1,0 +1,27 @@
+{
+  "name": "ran-str-msg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelzapj/ran-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Miguel Angel Zapata <migue0425zj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelzapj/ran-str-msg/issues"
+  },
+  "homepage": "https://github.com/miguelzapj/ran-str-msg#readme",
+  "bin": {
+    "ran-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
